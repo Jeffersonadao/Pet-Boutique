@@ -1,0 +1,195 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.container {
+    padding: 120px 80px;
+}
+
+.titulo {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px;
+}
+
+/*CSS Topo*/
+
+.topo {
+    background-image: url(../img/banner-topo.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.topo-logo {
+    max-width: 250px;
+    color: #3c184e;
+}
+
+.topo-logo img {
+    width: 30px;
+    margin-right: 5px;
+}
+
+.topo-logo .nome-pet-shop {
+    font-size: 35px;
+    margin: 0 0 5px 0;
+}
+
+.topo-logo .slogan {
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+
+.topo-banner {
+    background: #ffffffc4;
+    border-radius: 15px;
+    box-shadow: 0 8px 32px #1f26875e;
+    max-width: 1024px;
+    margin: 70px auto 0;
+    padding: 40px;
+}
+
+.titulo-banner {
+    color:#3c184e;
+    font-weight: 800;
+    font-size: 60px;
+    margin: 0 0 40px;
+    text-align: center;
+}
+
+.link-fale-conosco {
+    text-align: center;
+    width: 200px;
+    padding: 10px 25px;
+    font-size: 20px;
+    background-color: #3c184e;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.link-fale-conosco a {
+    color: #ffff;
+}
+
+.topo-banner img {
+    width: 20px;
+}
+
+            /*Nossos Serviços*/
+
+
+.servicos span {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.lista-servicos {
+    max-width: 800px;
+    color: #3c184e;
+    margin: 0 auto 50px;
+}
+
+.lista-servicos li {
+    font-size: 20px;
+    margin: 0 0 20px;
+}
+
+.servicos-img {
+    text-align: center;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.servicos-img img {
+    box-shadow: 3px 6px 10px 6px #0000005c;
+    border-radius: 5px;
+}
+
+            /*Redes Sociais*/
+
+.faixa {
+    background: #3c184e;
+    text-align: center;
+}
+
+.faixa p {
+    font-size: 40px;
+    color: #fff;
+    max-width: 800px;
+    margin: 0 auto 50px;
+
+}
+
+.faixa span {
+    font-style: italic;
+}
+
+.redes-sociais a {
+    margin: 0 20px;
+}
+.redes-sociais img {
+    width: 50px;
+    height: 50px;
+
+}
+
+            /*Principais marcas*/
+
+
+.principais-marcas {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.principais-marcas img {
+    width: 150px;
+    height: 150px;
+    margin: 0 15px;
+}
+
+.onde-estamos {
+    text-align: center;
+}
+
+.onde-estamos p {
+    font-size: 28px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px;
+}
+
+.onde-estamos iframe {
+    width: 950px;
+    height: 450px;
+}
+
+.rodape {
+    background-color: #3c184e;
+    padding: 10px 0;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+}
+.rodape p {
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.rodape span {
+    font-style: italic;
+}
+
+.rodape img {
+    width: 30px;
+    text-align: center;
+    margin: 0 5px;
+    }
